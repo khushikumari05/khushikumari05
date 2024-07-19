@@ -17,7 +17,7 @@
   <br>
   🌱 I’m currently learning **MERN**
   <br>
-  🤓 Always learning new things.
+  🤓 Interested in learning new things.
 <br>
 🤔 Check Out my <a href="https://drive.google.com/file/d/1p7C4HW4kaIuCB76cP32VlSfsjQsRslQM/view?usp=sharing" style="color: rgb(211, 28, 255);">Resume</a>
 <br>
